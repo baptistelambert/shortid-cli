@@ -6,6 +6,9 @@
   "repository": "git@github.com:baptistelambert/shortid-cli.git",
   "author": "Baptiste Lambert <bapthf2@gmail.com>",
   "license": "MIT",
+  "bin": {
+    "shortid": "./index.js"
+  },
   "dependencies": {
     "commander": "^2.11.0",
     "shortid": "^2.2.8"
