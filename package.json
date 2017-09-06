@@ -1,0 +1,13 @@
+{
+  "name": "shortid-cli",
+  "version": "1.0.0",
+  "description": "Generate short non-sequential url-friendly unique ids from the command line. Based on the shortid package.",
+  "main": "index.js",
+  "repository": "git@github.com:baptistelambert/shortid-cli.git",
+  "author": "Baptiste Lambert <bapthf2@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "shortid": "^2.2.8"
+  }
+}
