@@ -25,5 +25,6 @@ Usage: shortid-cli [options]
 
     -V, --version    output the version number
     --validate <id>  Check if an id is a valid shortid
+    -n --number <n>  Number of ids to generate
     -h, --help       output usage information
 ```
